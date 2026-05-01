@@ -1,12 +1,12 @@
 # <div align="center">Hi there, I'm Adil! 👋</div>
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+%7C+Next.js+%7C+React+Native;Building+Solutions+for+the+Web" alt="Typing SVG" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adil1109&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+</p>
 
 ---
 
@@ -25,16 +25,14 @@ I am a Full-Stack Developer specializing in the MERN stack, Next.js, and React N
 
 ## 📊 GitHub Stats
 
-<div align="center">
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adil1109&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adil1109&show_icons=true&theme=radical&hide_border=true&random=199" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adil1109&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adil1109&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
-</div>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil1109&layout=compact&theme=radical&hide_border=true&random=199" alt="Top Languages" />
+</p>
 
 ---
 
