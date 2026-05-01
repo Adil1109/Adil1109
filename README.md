@@ -26,11 +26,14 @@ I am a Full-Stack Developer specializing in the MERN stack, Next.js, and React N
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adil1109&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adil1109&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adil1109&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil1109&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adil1109&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
 </div>
 
 ---
